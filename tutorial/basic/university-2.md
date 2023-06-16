@@ -127,3 +127,5 @@ And so on for the graduate students, postdocs, full professors, associate profes
 
 We can now run the previous SPARQL queries and observe that the results combine
 entries from the two datasets.
+
+**Note**: if you still have the Reasoner running from the previous step of the tutorial, you will need to stop and restart it from the Reasoner menu.  
